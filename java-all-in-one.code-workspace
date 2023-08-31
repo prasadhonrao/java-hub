@@ -1,0 +1,27 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"java.project.sourcePaths": [
+			"11-Packages/src",
+			"10-OOP-Principles/03-Inheritance/src",
+			"10-OOP-Principles/01-Abstraction/src",
+			"02-Variables-And-Constants/03-Scope/src",
+			"02-Variables-And-Constants/02-Constants/src",
+			"02-Variables-And-Constants/01-Variables/src",
+			"01-Getting-Started/02-Command-Line-Arguments/src",
+			"01-Getting-Started/01-HelloWorld/src",
+			"10-OOP-Principles/02-Encapsulation/src"
+		],
+		"cSpell.words": [
+			"Northwind"
+		],
+		"java.project.referencedLibraries": [
+			"lib/**/*.jar",
+			"Libs\\lombok.jar"
+		]
+	}
+}

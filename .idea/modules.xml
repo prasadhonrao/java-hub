@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/05-Conditional-Statements/99-Quiz/01/01.iml" filepath="$PROJECT_DIR$/05-Conditional-Statements/99-Quiz/01/01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10-OOP-Principles/01-Abstraction/01-Abstraction.iml" filepath="$PROJECT_DIR$/10-OOP-Principles/01-Abstraction/01-Abstraction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04-Operators/01-Arithmetic/01-Arithmetic.iml" filepath="$PROJECT_DIR$/04-Operators/01-Arithmetic/01-Arithmetic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07-Collections/01-Array/01-Array.iml" filepath="$PROJECT_DIR$/07-Collections/01-Array/01-Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-Data-Types/01-Primitives/01-Byte/01-Byte.iml" filepath="$PROJECT_DIR$/03-Data-Types/01-Primitives/01-Byte/01-Byte.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08-Class/01-Class-Intro/01-Class-Intro.iml" filepath="$PROJECT_DIR$/08-Class/01-Class-Intro/01-Class-Intro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01-Getting-Started/01-HelloWorld/01-HelloWorld.iml" filepath="$PROJECT_DIR$/01-Getting-Started/01-HelloWorld/01-HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05-Conditional-Statements/01-If/01-If.iml" filepath="$PROJECT_DIR$/05-Conditional-Statements/01-If/01-If.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04-Operators/08-Equality/01-Primitive-Equality/01-Primitive-Equality.iml" filepath="$PROJECT_DIR$/04-Operators/08-Equality/01-Primitive-Equality/01-Primitive-Equality.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-Data-Types/02-Non-Primitives/01-String/01-String.iml" filepath="$PROJECT_DIR$/03-Data-Types/02-Non-Primitives/01-String/01-String.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-Variables-And-Constants/01-Variables/01-Variables.iml" filepath="$PROJECT_DIR$/02-Variables-And-Constants/01-Variables/01-Variables.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06-Loops/01-While/01-While.iml" filepath="$PROJECT_DIR$/06-Loops/01-While/01-While.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04-Operators/99-Quiz/01/011.iml" filepath="$PROJECT_DIR$/04-Operators/99-Quiz/01/011.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06-Loops/99-Quiz/01/012.iml" filepath="$PROJECT_DIR$/06-Loops/99-Quiz/01/012.iml" />
+      <module fileurl="file://$PROJECT_DIR$/99-Quiz/01/013.iml" filepath="$PROJECT_DIR$/99-Quiz/01/013.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05-Conditional-Statements/99-Quiz/02/02.iml" filepath="$PROJECT_DIR$/05-Conditional-Statements/99-Quiz/02/02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07-Collections/02-ArrayList/02-ArrayList.iml" filepath="$PROJECT_DIR$/07-Collections/02-ArrayList/02-ArrayList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08-Class/02-Class-Methods/02-Class-Properties.iml" filepath="$PROJECT_DIR$/08-Class/02-Class-Methods/02-Class-Properties.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01-Getting-Started/02-Command-Line-Arguments/02-Command-Line-Arguments.iml" filepath="$PROJECT_DIR$/01-Getting-Started/02-Command-Line-Arguments/02-Command-Line-Arguments.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-Variables-And-Constants/02-Constants/02-Constants.iml" filepath="$PROJECT_DIR$/02-Variables-And-Constants/02-Constants/02-Constants.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06-Loops/02-Do-While/02-Do-While.iml" filepath="$PROJECT_DIR$/06-Loops/02-Do-While/02-Do-While.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10-OOP-Principles/02-Encapsulation/02-Encapsulation.iml" filepath="$PROJECT_DIR$/10-OOP-Principles/02-Encapsulation/02-Encapsulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04-Operators/02-Relational/02-Relational.iml" filepath="$PROJECT_DIR$/04-Operators/02-Relational/02-Relational.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-Data-Types/01-Primitives/02-Short/02-Short.iml" filepath="$PROJECT_DIR$/03-Data-Types/01-Primitives/02-Short/02-Short.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05-Conditional-Statements/02-Ternary-Expression/02-Ternary-Expression.iml" filepath="$PROJECT_DIR$/05-Conditional-Statements/02-Ternary-Expression/02-Ternary-Expression.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-Data-Types/02-Non-Primitives/02-User-Defined-Class/02-User-Defined-Class.iml" filepath="$PROJECT_DIR$/03-Data-Types/02-Non-Primitives/02-User-Defined-Class/02-User-Defined-Class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04-Operators/08-Equality/02-Wrapper-Equality/02-Wrapper-Equality.iml" filepath="$PROJECT_DIR$/04-Operators/08-Equality/02-Wrapper-Equality/02-Wrapper-Equality.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04-Operators/99-Quiz/02/021.iml" filepath="$PROJECT_DIR$/04-Operators/99-Quiz/02/021.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06-Loops/99-Quiz/02/022.iml" filepath="$PROJECT_DIR$/06-Loops/99-Quiz/02/022.iml" />
+      <module fileurl="file://$PROJECT_DIR$/99-Quiz/02/023.iml" filepath="$PROJECT_DIR$/99-Quiz/02/023.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06-Loops/99-Quiz/03/03.iml" filepath="$PROJECT_DIR$/06-Loops/99-Quiz/03/03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-Data-Types/03-Boxing-Unboxing/03-Boxing-Unboxing.iml" filepath="$PROJECT_DIR$/03-Data-Types/03-Boxing-Unboxing/03-Boxing-Unboxing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06-Loops/03-For/03-For.iml" filepath="$PROJECT_DIR$/06-Loops/03-For/03-For.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07-Collections/03-HashMap/03-HashMap.iml" filepath="$PROJECT_DIR$/07-Collections/03-HashMap/03-HashMap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10-OOP-Principles/03-Inheritance/03-Inheritance.iml" filepath="$PROJECT_DIR$/10-OOP-Principles/03-Inheritance/03-Inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-Data-Types/01-Primitives/03-Int/03-Int.iml" filepath="$PROJECT_DIR$/03-Data-Types/01-Primitives/03-Int/03-Int.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04-Operators/03-Logical/03-Logical.iml" filepath="$PROJECT_DIR$/04-Operators/03-Logical/03-Logical.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-Data-Types/02-Non-Primitives/03-Record/03-Record.iml" filepath="$PROJECT_DIR$/03-Data-Types/02-Non-Primitives/03-Record/03-Record.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-Variables-And-Constants/03-Scope/03-Scope.iml" filepath="$PROJECT_DIR$/02-Variables-And-Constants/03-Scope/03-Scope.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04-Operators/08-Equality/03-String-Equality/03-String-Equality.iml" filepath="$PROJECT_DIR$/04-Operators/08-Equality/03-String-Equality/03-String-Equality.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05-Conditional-Statements/03-Switch-Case/03-Switch-Case.iml" filepath="$PROJECT_DIR$/05-Conditional-Statements/03-Switch-Case/03-Switch-Case.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05-Conditional-Statements/99-Quiz/03/031.iml" filepath="$PROJECT_DIR$/05-Conditional-Statements/99-Quiz/03/031.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04-Operators/99-Quiz/03/032.iml" filepath="$PROJECT_DIR$/04-Operators/99-Quiz/03/032.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06-Loops/99-Quiz/04/04.iml" filepath="$PROJECT_DIR$/06-Loops/99-Quiz/04/04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-Variables-And-Constants/04-Access-Modifiers/04-Access-Modifiers.iml" filepath="$PROJECT_DIR$/02-Variables-And-Constants/04-Access-Modifiers/04-Access-Modifiers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06-Loops/04-For-Each/04-For-Each.iml" filepath="$PROJECT_DIR$/06-Loops/04-For-Each/04-For-Each.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07-Collections/04-HashSet/04-HashSet.iml" filepath="$PROJECT_DIR$/07-Collections/04-HashSet/04-HashSet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-Data-Types/01-Primitives/04-Long/04-Long.iml" filepath="$PROJECT_DIR$/03-Data-Types/01-Primitives/04-Long/04-Long.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04-Operators/04-Negation/04-Negation.iml" filepath="$PROJECT_DIR$/04-Operators/04-Negation/04-Negation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04-Operators/08-Equality/04-Reference-Equality/04-Reference-Equality.iml" filepath="$PROJECT_DIR$/04-Operators/08-Equality/04-Reference-Equality/04-Reference-Equality.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05-Conditional-Statements/04-Switch-Expression/04-Switch-Expression.iml" filepath="$PROJECT_DIR$/05-Conditional-Statements/04-Switch-Expression/04-Switch-Expression.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05-Conditional-Statements/99-Quiz/04/041.iml" filepath="$PROJECT_DIR$/05-Conditional-Statements/99-Quiz/04/041.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04-Operators/99-Quiz/04/042.iml" filepath="$PROJECT_DIR$/04-Operators/99-Quiz/04/042.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06-Loops/99-Quiz/05/05.iml" filepath="$PROJECT_DIR$/06-Loops/99-Quiz/05/05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-Data-Types/01-Primitives/05-Float/05-Float.iml" filepath="$PROJECT_DIR$/03-Data-Types/01-Primitives/05-Float/05-Float.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04-Operators/05-Ternary/05-Ternary.iml" filepath="$PROJECT_DIR$/04-Operators/05-Ternary/05-Ternary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05-Conditional-Statements/99-Quiz/05/051.iml" filepath="$PROJECT_DIR$/05-Conditional-Statements/99-Quiz/05/051.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04-Operators/99-Quiz/05/052.iml" filepath="$PROJECT_DIR$/04-Operators/99-Quiz/05/052.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04-Operators/99-Quiz/06/06.iml" filepath="$PROJECT_DIR$/04-Operators/99-Quiz/06/06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-Data-Types/01-Primitives/06-Double/06-Double.iml" filepath="$PROJECT_DIR$/03-Data-Types/01-Primitives/06-Double/06-Double.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04-Operators/06-Unary/06-Unary.iml" filepath="$PROJECT_DIR$/04-Operators/06-Unary/06-Unary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04-Operators/99-Quiz/07/07.iml" filepath="$PROJECT_DIR$/04-Operators/99-Quiz/07/07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04-Operators/07-Bitwise/07-Bitwise.iml" filepath="$PROJECT_DIR$/04-Operators/07-Bitwise/07-Bitwise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-Data-Types/01-Primitives/07-Boolean/07-Boolean.iml" filepath="$PROJECT_DIR$/03-Data-Types/01-Primitives/07-Boolean/07-Boolean.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04-Operators/99-Quiz/08/08.iml" filepath="$PROJECT_DIR$/04-Operators/99-Quiz/08/08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-Data-Types/01-Primitives/08-Char/08-Char.iml" filepath="$PROJECT_DIR$/03-Data-Types/01-Primitives/08-Char/08-Char.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04-Operators/99-Quiz/09/09.iml" filepath="$PROJECT_DIR$/04-Operators/99-Quiz/09/09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04-Operators/99-Quiz/10/10.iml" filepath="$PROJECT_DIR$/04-Operators/99-Quiz/10/10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11-Packages/11-Packages.iml" filepath="$PROJECT_DIR$/11-Packages/11-Packages.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Enums/Enums.iml" filepath="$PROJECT_DIR$/Enums/Enums.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java-all-in-one.iml" filepath="$PROJECT_DIR$/.idea/java-all-in-one.iml" />
+    </modules>
+  </component>
+</project>
